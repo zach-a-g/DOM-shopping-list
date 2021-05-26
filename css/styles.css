@@ -75,3 +75,15 @@ section {
   max-width: 60rem;
   margin: 0 auto;
 }
+
+#myList {
+  border: 1px solid lightgray;
+  border-radius: 3px;
+  flex-direction: row;
+  text-align: left;
+  /* width: 25%; */
+}
+
+/* #h1element {
+  margin: auto;
+} */
